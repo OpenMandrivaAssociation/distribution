@@ -10,13 +10,14 @@ assignees: ''
 
 **OpenMandriva version**:
 
-Describe the bug:
+**Describe the bug**:
 
-Steps to reproduce:
+**Steps to reproduce**:
 
-Observed behavior:
+**Observed behavior**:
 
-Expected behavior:
+**Expected behavior**:
 
-Logs and screenshots if relevant
+**Additional comment**:
 
+**Logs and screenshots if relevant**
