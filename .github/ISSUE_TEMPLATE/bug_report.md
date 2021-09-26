@@ -7,3 +7,16 @@ labels: new
 assignees: ''
 
 ---
+
+**OpenMandriva version**:
+
+Describe the bug:
+
+Steps to reproduce:
+
+Observed behavior:
+
+Expected behavior:
+
+Logs and screenshots if relevant
+
