@@ -35,7 +35,7 @@
 - [ ] Does Application menu open
 - [ ] Does everything in Application menu working (icons, Help, Power/Session)
 
-## Applicaions Testing
+## Applications Testing
 
 - [ ] Do all apps in Application menu at least open
 - [ ] Do all apps om OM-Welcome 'Applications' pages install and open
