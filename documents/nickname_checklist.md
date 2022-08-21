@@ -34,6 +34,9 @@
 - [ ] Do links on Calamares open correctly
 - [ ] Does Application menu open
 - [ ] Does everything in Application menu working (icons, Help, Power/Session)
+
+## Applicaions Testing
+
 - [ ] Do all apps in Application menu at least open
 - [ ] Do all apps om OM-Welcome 'Applications' pages install and open
 - [ ] OM-Welcome do all other items in OM-Welcome work
