@@ -1,7 +1,7 @@
 # OpenMandrivaLx
 
 ## Join the chat:
-* Generic/users discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
+* Generic/users discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
 * Development/Cooker discussions: [![OpenMandriva Cooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenmandrivaCooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org?label=Telegram)](https://t.me/openmandrivaCooker)
 
 You can also join these discussions using IRC ([libera.chat](https://web.libera.chat/)) through #openmandriva and #openmandriva-cooker channels.
